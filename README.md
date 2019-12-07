@@ -1,3 +1,4 @@
+## Working As Of 07/12/2019
 # Spotify-Non-Premium-Block-Ads
 Have you ever been annoyed by the stupid advertisements on Spotify whilst your trying to just chill
 And listen to your favourite music? Well follow the steps below and you can enjoy your music without advertisements.
